@@ -164,31 +164,31 @@ Budget planning versus actual spending analysis.
 # 📸 Project Screenshots
 
 ## 🏠 Welcome Page
-![Welcome Page](screenshots/welcome-page.png)
+![Welcome Page](welcome-page.png)
 
 ## 📄 Raw Data
-![Raw Data](screenshots/raw-data.png)
+![Raw Data](raw-data.png)
 
 ## 🧹 Cleaning Tasks
-![Cleaning Tasks](screenshots/cleaning-tasks.png)
+![Cleaning Tasks](cleaning-tasks.png)
 
 ## ✅ Cleaned Data
-![Cleaned Data](screenshots/cleaned-data.png)
+![Cleaned Data](cleaned-data.png)
 
 ## 📊 Final Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 📋 Pivot Tables
-![Pivot Tables](screenshots/pivot-tables.png)
+![Pivot Tables](pivot-tables.png)
 
 ## 💰 Income Analysis
-![Income Analysis](screenshots/income-analysis.png)
+![Income Analysis](income-analysis.png)
 
 ## 💸 Expense Analysis
-![Expense Analysis](screenshots/expense-analysis.png)
+![Expense Analysis](expense-analysis.png)
 
 ## 🏦 Budget Analysis
-![Budget Analysis](screenshots/budget-analysis.png)
+![Budget Analysis](budget-analysis.png)
 
 ---
 
