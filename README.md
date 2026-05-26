@@ -1,6 +1,6 @@
-# 💰📊 PERSONAL FINANCE & BUDGET PLANNER DASHBOARD
+# 💰📊 PERSONAL FINANCE & BUDGET PLANNER
 
-### 🚀 Microsoft Excel Financial Analytics & Dashboard Project  
+### 🚀 Advanced Microsoft Excel Financial Analytics & Dashboard Project  
 ### 🏢 Anudip Foundation Project
 
 ---
