@@ -170,7 +170,7 @@ Budget planning versus actual spending analysis.
 ![Raw Data](raw-data.png)
 
 ## 🧹 Cleaning Tasks
-![Cleaning Tasks](cleaning-tasks.png)
+![Cleaning Tasks](data-cleaning.png)
 
 ## ✅ Cleaned Data
 ![Cleaned Data](cleaned-data.png)
@@ -179,7 +179,7 @@ Budget planning versus actual spending analysis.
 ![Dashboard](dashboard.png)
 
 ## 📋 Pivot Tables
-![Pivot Tables](pivot-tables.png)
+![Pivot Tables](pivot-analysis.png)
 
 ## 💰 Income Analysis
 ![Income Analysis](income-analysis.png)
