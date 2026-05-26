@@ -304,10 +304,10 @@ This project combines:
 
 to create a professional Excel-based financial management and analytics solution.
 
+The project can be further enhanced using Power BI, automation tools, and real-time financial reporting systems.
+
 ---
 
 # ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub.
-
-The project can be further enhanced using Power BI, automation tools, and real-time financial reporting systems.
