@@ -1,97 +1,87 @@
-# 💰📊 PERSONAL FINANCE & BUDGET PLANNER
+# 💰 PERSONAL FINANCE & BUDGET PLANNER
 
-### 🚀 Advanced Microsoft Excel Financial Analytics & Dashboard Project  
+### 📊 Advanced Microsoft Excel Financial Analytics Project  
 ### 🏢 Anudip Foundation Project
 
 ---
 
 # 📌 Project Overview
 
-The **Personal Finance & Budget Planner Dashboard** is an interactive Microsoft Excel project developed to analyze, organize, and visualize financial data efficiently. This project provides a complete financial overview including **income tracking, expense analysis, savings monitoring, and budget performance evaluation** through professional dashboard components.
+The **Personal Finance & Budget Planner** is a complete Microsoft Excel-based financial analytics project developed for tracking, organizing, analyzing, and visualizing personal financial data efficiently.
 
-The dashboard combines **Pivot Tables, KPI Cards, Charts, Hyperlinks, Data Cleaning techniques, and Financial Analytics** to create a visually appealing and user-friendly reporting system.
+This project helps users monitor:
 
-This project demonstrates practical implementation of:
+✅ Monthly Income  
+✅ Expense Tracking  
+✅ Savings Analysis  
+✅ Budget Planning  
+✅ Financial Performance  
 
-✨ Financial Data Analysis  
-✨ Interactive Dashboard Development  
-✨ Data Cleaning & Preprocessing  
-✨ Pivot Table Reporting  
-✨ KPI Visualization  
-✨ Budget Monitoring & Expense Tracking  
-
----
-
-# 🎯 Project Objectives
-
-This dashboard helps users to:
-
-✅ Track monthly income and expenses  
-✅ Analyze category-wise spending patterns  
-✅ Monitor savings and remaining budget  
-✅ Compare budget vs actual expenses  
-✅ Visualize financial trends using charts  
-✅ Perform data cleaning and preprocessing  
-✅ Navigate sheets using interactive hyperlinks  
-✅ Build professional Excel dashboards for analysis  
-
----
-
-# 🏗️ Dashboard Workflow
-
-```text
-Raw Data → Data Cleaning → Cleaned Data → Pivot Tables → Dashboard Visualization
-```
-
-## ⚙️ Workflow Steps
-
-### 1️⃣ Raw Financial Data Collection
-Original financial records collected and stored systematically.
-
-### 2️⃣ Data Cleaning & Preprocessing
-Data inconsistencies, formatting issues, and irregular entries corrected.
-
-### 3️⃣ Cleaned Dataset Preparation
-Structured dataset created for analysis and reporting.
-
-### 4️⃣ Pivot Table Generation
-Summary tables created for income, expense, and budget insights.
-
-### 5️⃣ Dashboard Visualization
-Interactive KPI cards and charts developed for analytics.
-
-### 6️⃣ Hyperlink Navigation System
-Connected all sheets for smooth and professional navigation.
-
----
-
-# ⚡ Key Features
-
-📊 Interactive KPI Dashboard  
-📈 Monthly Income Trend Analysis  
-💸 Expense Category Analysis  
-🏦 Budget vs Actual Expense Comparison  
-📋 Pivot Tables & Pivot Charts  
-🎨 Professional Dashboard Design  
-🔗 Hyperlink Navigation System  
-🧹 Data Cleaning & Preprocessing  
-📉 Financial Performance Visualization  
-📁 Structured Multi-Sheet Workbook  
-
----
-
-# 🧰 Tools & Technologies Used
-
-## 💻 Microsoft Excel Features
+The project integrates advanced Excel features such as:
 
 - Pivot Tables
 - Pivot Charts
 - KPI Cards
 - Conditional Formatting
 - Hyperlinks
-- Formulas & Functions
+- Financial Formulas
+- Interactive Dashboard Design
+- Data Cleaning & Preprocessing
+
+The system provides a professional and interactive financial reporting experience using multiple Excel worksheets and visual analytics.
+
+---
+
+# 🎯 Project Objectives
+
+✔️ Track monthly income and expenses  
+✔️ Analyze category-wise spending patterns  
+✔️ Monitor savings and financial performance  
+✔️ Compare budget with actual expenses  
+✔️ Visualize financial trends using charts  
+✔️ Perform data cleaning and preprocessing  
+✔️ Build interactive Excel reporting systems  
+✔️ Create a professional financial analytics project  
+
+---
+
+# 🏗️ Project Workflow
+
+```text
+Raw Data → Data Cleaning → Cleaned Data → Income & Expense Analysis → Budget Analysis → Pivot Table → Executive Dashboard
+```
+
+---
+
+# ⚙️ Features Included
+
+✅ Interactive Excel Dashboard  
+✅ Income Analysis  
+✅ Expense Analysis  
+✅ Budget Planning & Tracking  
+✅ Pivot Table Analysis  
+✅ KPI Cards  
+✅ Financial Charts & Graphs  
+✅ Conditional Formatting  
+✅ Hyperlink Navigation System  
+✅ Data Cleaning & Validation  
+✅ Multi-Sheet Workbook Structure  
+
+---
+
+# 🧰 Microsoft Excel Tools Used
+
+- Pivot Tables
+- Pivot Charts
+- SUM Formula
+- IF Formula
+- Percentage Formula
+- Conditional Formatting
+- Hyperlinks
 - Data Validation
-- Dashboard Design
+- Charts & Graphs
+- Dashboard Design Techniques
+- Slicers & Interactive Filtering
 
 ---
 
@@ -101,55 +91,57 @@ Connected all sheets for smooth and professional navigation.
 Welcome Page
 │
 ├── Raw Data
-├── Cleaning Tasks
+├── Data Cleaning Process
 ├── Cleaned Data
-├── Dashboard
-├── Pivot Tables
 ├── Income Analysis
 ├── Expense Analysis
-└── Budget Analysis
+├── Budget Analysis
+├── Pivot Table
+└── Executive Dashboard
 ```
 
 ---
 
 # 📊 Dashboard Components
 
-## 🏠 1️⃣ Welcome Page
-Interactive homepage containing hyperlinks to all sheets.
+## 🏠 Welcome Page
+Interactive homepage with hyperlink-based navigation.
 
-## 📄 2️⃣ Raw Data
-Contains original financial transaction records before preprocessing.
+## 📄 Raw Data
+Contains original financial transaction records.
 
-## 🧹 3️⃣ Cleaning Tasks
-Includes all data cleaning and preprocessing operations.
+## 🧹 Data Cleaning Process
+Includes preprocessing and data cleaning operations.
 
-## 📑 4️⃣ Cleaned Data
-Processed and structured dataset prepared for analysis.
+## ✅ Cleaned Data
+Structured dataset prepared for reporting and analysis.
 
-## 📊 5️⃣ Final Dashboard
-Interactive financial dashboard with KPI cards and charts.
+## 💰 Income Analysis
+Monthly income tracking and source-wise analysis.
 
-## 📋 6️⃣ Pivot Tables
-Summary reports generated using Pivot Tables.
+## 💸 Expense Analysis
+Category-wise expense breakdown and spending patterns.
 
-## 💰 7️⃣ Income Analysis
-Monthly income tracking and trend visualization.
+## 🏦 Budget Analysis
+Comparison between planned budget and actual spending.
 
-## 💸 8️⃣ Expense Analysis
-Category-wise expense monitoring and comparison.
+## 📋 Pivot Table
+Summary financial analysis generated using Pivot Tables.
 
-## 🏦 9️⃣ Budget Analysis
-Budget planning versus actual spending analysis.
+## 📊 Executive Dashboard
+Final interactive dashboard containing KPI cards, charts, financial insights, and analytics visualization.
 
 ---
 
 # 📌 KPI Metrics Included
 
 💰 Total Income  
-💸 Total Expense  
+💸 Total Expenses  
 🏦 Total Savings  
 📊 Remaining Budget  
-💳 Average Credit Score  
+📈 Savings Rate  
+📉 Expense Ratio  
+📋 Total Transactions  
 
 ---
 
@@ -157,7 +149,8 @@ Budget planning versus actual spending analysis.
 
 📉 Monthly Income Trend Chart  
 📊 Expense Category Analysis Chart  
-📋 Budget vs Actual Analysis Chart  
+📋 Budget vs Actual Spending Analysis  
+📈 Income vs Expense Comparison  
 
 ---
 
@@ -166,54 +159,116 @@ Budget planning versus actual spending analysis.
 ## 🏠 Welcome Page
 ![Welcome Page](welcome-page.png)
 
+---
+
 ## 📄 Raw Data
 ![Raw Data](raw-data.png)
 
-## 🧹 Cleaning Tasks
-![Cleaning Tasks](data-cleaning.png)
+---
+
+## 🧹 Data Cleaning Process
+![Data Cleaning Process](data-cleaning.png)
+
+---
 
 ## ✅ Cleaned Data
 ![Cleaned Data](cleaned-data.png)
 
-## 📊 Final Dashboard
-![Dashboard](dashboard.png)
-
-## 📋 Pivot Tables
-![Pivot Tables](pivot-analysis.png)
+---
 
 ## 💰 Income Analysis
 ![Income Analysis](income-analysis.png)
 
+---
+
 ## 💸 Expense Analysis
 ![Expense Analysis](expense-analysis.png)
+
+---
 
 ## 🏦 Budget Analysis
 ![Budget Analysis](budget-analysis.png)
 
 ---
 
-# 🎯 Key Insights
+## 📋 Pivot Table
+![Pivot Table](pivot-analysis.png)
 
-✅ Identified major spending categories  
-✅ Compared actual expenses with planned budget  
-✅ Tracked monthly financial growth trends  
-✅ Evaluated savings performance  
-✅ Improved financial data organization and reporting  
+---
+
+## 📊 Executive Dashboard
+![Dashboard](dashboard.png)
+
+---
+
+# 📌 Core Formulas Used
+
+## 💰 Total Income Formula
+
+```excel
+=SUM(B4:M4)
+```
+
+Purpose:  
+Calculates total yearly income from monthly income values.
+
+---
+
+## 💸 Expense Percentage Formula
+
+```excel
+=N4/$N$16
+```
+
+Purpose:  
+Calculates percentage contribution of each expense category.
+
+---
+
+## 🏦 Budget Variance Formula
+
+```excel
+=B4-C4
+```
+
+Purpose:  
+Calculates remaining budget after actual spending.
+
+---
+
+## ✅ Budget Status Formula
+
+```excel
+=IF(D4>=0,"Under Budget","Over Budget")
+```
+
+Purpose:  
+Checks whether spending is under budget or over budget.
+
+---
+
+# 📊 Financial Insights
+
+✅ Investment and Rent categories recorded the highest expenses  
+✅ Savings rate reached 85.52% indicating strong financial management  
+✅ Expense ratio remained controlled at 14.48%  
+✅ Dashboard KPIs improved financial monitoring and reporting  
 
 ---
 
 # 🌟 Project Highlights
 
-✨ Professional Dashboard UI  
-✨ Interactive Hyperlink Navigation  
+✨ Professional Excel Dashboard Design  
+✨ Interactive Financial Reporting  
 ✨ Realistic Financial Dataset  
-✨ Practical Use of Excel Analytics  
-✨ End-to-End Dashboard Development Workflow  
-✨ Clean & Structured Workbook Design  
+✨ Advanced Excel Analytics  
+✨ End-to-End Financial Analysis Workflow  
+✨ Structured Workbook Navigation  
+✨ Data Cleaning & Visualization Techniques  
 
 ---
 
-# 👨‍💻 Presented By
+# 👨‍💻 Developed By
 
 ### 👤 Aakash Nath  
 ### 👤 Abhijit Roy  
@@ -226,14 +281,27 @@ Budget planning versus actual spending analysis.
 
 ---
 
-# 📌 Conclusion
+# 🔗 GitHub Repository
 
-The **Personal Finance & Budget Planner Dashboard** demonstrates how Microsoft Excel can be effectively used for **financial analytics, dashboard visualization, and data management**.
-
-This project integrates **data cleaning, Pivot Table reporting, KPI tracking, financial trend analysis, and interactive dashboard design** to build a professional financial analytics solution with a clean and modern user experience.
+```text
+https://github.com/aakashnath/personal-finance-dashboard-excel
+```
 
 ---
 
-# ⭐ If You Like This Project
+# 📌 Conclusion
 
-Give this project a ⭐ on GitHub to support and appreciate the work!
+The **Personal Finance & Budget Planner** demonstrates how Microsoft Excel can be effectively used for financial analytics, reporting, budgeting, and interactive visualization.
+
+This project combines:
+
+✔️ Data Cleaning  
+✔️ Financial Analysis  
+✔️ Pivot Reporting  
+✔️ Formula Automation  
+✔️ KPI Tracking  
+✔️ Interactive Dashboard Design  
+
+to create a professional Excel-based financial management and analytics solution.
+
+The project can be further enhanced using Power BI, automation tools, and real-time financial reporting systems.
